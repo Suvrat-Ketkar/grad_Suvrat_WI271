@@ -1118,4 +1118,4 @@ public class MainApplication
 
 
 // javac MainApplication.java
-// java -cp ".;d:\Basic Java Training Codes and Notes\Jan 28 SQL\postgresql-42.7.9.jar" MainApplication.java
+// java -cp ".;d:\Basic Java Training Codes and Notes\Jan 28 SQL\postgresql-42.7.9.jar" MainApplication
